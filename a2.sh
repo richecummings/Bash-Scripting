@@ -266,7 +266,6 @@ _EOF_
 			# display personal info
 			cat << _EOM_
 Name: 			Richard Cummings
-Student Number: 	991 226 908
 Program: 		Computer Programmer
 _EOM_
 			;;
